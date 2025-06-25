@@ -1,4 +1,4 @@
-# 👟 Footwear E-Commerce – Client App (Flutter)
+# 👟 Footwear Client App (Flutter + Firebase)
 
 This is the **Client-Side Application** for a Flutter-based Footwear E-Commerce platform. Customers can **browse, filter, and purchase homemade footwear products**, with real-time data fetched from Firebase, added via the [Footware_Admin](https://github.com/srivasishta/Footware_Admin) panel.
 
