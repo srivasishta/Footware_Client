@@ -11,8 +11,8 @@ class PurchaseController extends GetxController {
   // Add your PayPal Client ID and Secret here
   // For a real application, these should be fetched securely (e.g., from an environment variable or backend)
   // and not hardcoded.
-  static const String paypalClientId = 'AYZTszXiXau5hHqxNP0swmC6iG3dADs4gLNzmywr3R9RtkcFakYSb_jQtoCRrlpKvonlNoAQgGVIeI8u'; // Replace with your Sandbox/Live Client ID
-  static const String paypalSecretKey = 'EPtmz0zwUf9cq1sl_czqDt6DAvfldqcIJMxQcgXkjw6ELEDBOpLEol_nnhEuhIsz41b8masis2Sm4S0e'; // Replace with your Sandbox/Live Secret
+  static const String paypalClientId = ''; // Replace with your Sandbox/Live Client ID
+  static const String paypalSecretKey = ''; // Replace with your Sandbox/Live Secret
 
   Future<void> submitOrder({
     required double price,
